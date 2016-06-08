@@ -19,7 +19,11 @@ class FilmType extends AbstractType
             ->add('description')
             ->add('listeDesGenres')
         ;
-
+        $builder
+            ->add('titre')
+            ->add('description')
+            ->add('listeDesGenres')
+        ;
         $builder
             ->add('titre')
             ->add('description')
