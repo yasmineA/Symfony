@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Iabsis/Bundle/VideothequeBundle/DataFixures/ORM/LoadingFixtures.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Iabsis/Bundle/VideothequeBundle/Entity/FilmRepository.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Iabsis/Bundle/VideothequeBundle/Resources/views/Default/Admin/admin_home.html.twig" charset="ISO-8859-1" />
+  </component>
+</project>

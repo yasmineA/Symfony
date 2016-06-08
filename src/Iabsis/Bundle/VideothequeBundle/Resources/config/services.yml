@@ -1,0 +1,4 @@
+services:
+#    videotheque.example:
+#        class: Iabsis\Bundle\VideothequeBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
